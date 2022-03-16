@@ -1,5 +1,7 @@
 #include <iostream>
 #include "Student.h"
+#include<iomanip>
+#include<cstring>
 using namespace std;
 int main() {
   
